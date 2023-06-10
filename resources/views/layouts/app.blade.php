@@ -64,6 +64,7 @@
                                     <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
                                         @csrf
                                     </form>
+                                    <h1>Haloo aku mengedit ini</h1>
                                 </div>
                             </li>
                         @endguest
